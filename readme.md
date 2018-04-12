@@ -1,5 +1,9 @@
 # PBGB Creative
 
+* Custom Business Solutions
+* Web and Mobile Experiences
+* Always Quality
+
 ## [Kevin Miller](https://www.linkedin.com/in/kevinjmiller/) - Owner
 
 I've been creating software for over 20 years delivering user centric experiences using Agile techniques. 
