@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pinball Game Buttons]]></title><description><![CDATA[The struggles and triumphs of a software engineer gone independent.]]></description><link>https://pbgb.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Sep 2019 16:49:59 GMT</lastBuildDate><item><title><![CDATA[Why Pinball Game Buttons]]></title><description><![CDATA[This blog is named Pinball Game Buttons. My consulting firm is called PBGB Creative which is a weird acronym for Pinball Game Buttons lifted…]]></description><link>https://pbgb.io/pinball-game-buttons/</link><guid isPermaLink="false">https://pbgb.io/pinball-game-buttons/</guid><pubDate>Sun, 01 Sep 2019 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This blog is named Pinball Game Buttons. My consulting firm is called &lt;a href=&quot;https://pbgb.io&quot;&gt;PBGB Creative&lt;/a&gt; which is a weird acronym for Pinball Game Buttons lifted from a very important program in computer science and American history. The story starts 50 years ago with the Apollo space program’s guidance computer.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 500px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b80b7664cb612db0f9555f092b64a519/48a11/AGC_user_interface.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABJOagFi0j/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECAwQSIf/aAAgBAQABBQLj5xS0k9RhfV6Wx2f/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwG2of/EABwQAQABBAMAAAAAAAAAAAAAAAAiARESITFBcf/aAAgBAQAGPwKW6selniTh/8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAMVEhYf/aAAgBAQABPyFl03xS8B1XkLCViHdeNEZZnRGVP//aAAwDAQACAAMAAAAQr/8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EAMlX//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QUuxh2//EAB4QAQACAgIDAQAAAAAAAAAAAAERIQAxQZFRYYHB/9oACAEBAAE/EGVUENis/R9jgpCWMNuOmsJyiInhyVOVtEuz4w94wWRAvDqDDZBRCq3n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Apollo DSKY User Interface&quot;
+        title=&quot;Apollo DSKY User Interface&quot;
+        src=&quot;/static/b80b7664cb612db0f9555f092b64a519/48a11/AGC_user_interface.jpg&quot;
+        srcset=&quot;/static/b80b7664cb612db0f9555f092b64a519/8ee9c/AGC_user_interface.jpg 148w,
+/static/b80b7664cb612db0f9555f092b64a519/ebbe7/AGC_user_interface.jpg 295w,
+/static/b80b7664cb612db0f9555f092b64a519/48a11/AGC_user_interface.jpg 500w&quot;
+        sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the User Interface. &lt;a href=&quot;http://www.nasa.gov/centers/dryden/about/Organizations/Technology/Facts/TF-2001-02-DFRC_prt.htm&quot;&gt;Photo from NASA&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;The Apollo Guidance Computer (AGC)&lt;/h2&gt;
+&lt;p&gt;I have been a Apollo moon mission fan for decades. Around the time I was dreaming of becoming an independant consultant the &lt;a href=&quot;https://github.com/chrislgarry/Apollo-11&quot;&gt;Apollo guidance program source code&lt;/a&gt; was posted to GitHub. This was right up my alley and I looked around in the source code and found a lot of fun comments and file names. One file name stuck with me. &lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;PINBALL_GAME_BUTTONS_AND_LIGHTS.agc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It stuck mostly because it had a &lt;a href=&quot;https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc#L61-L73&quot;&gt;fun story&lt;/a&gt; in the file header comments that seems a common problem in software development.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In short order, some of the coders threw together a demo program, inventing and using the verb/noun user-interface concept (in the whimsical fashion seen in much of this code), but without any idea that the verb/noun concept would somehow survive into the flight software.  As time passed, and more and more people became familiar with the demo, nobody got around to inventing an improvement for the user interface, so the coders simply built it into the flight software without any specific requirements to do so.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When you watch Apollo documentaries like the excellent HBO mini-series &lt;a href=&quot;https://www.hbo.com/from-the-earth-to-the-moon&quot;&gt;From the Earth to the Moon&lt;/a&gt;. You get to see the guidance computer and its user interface in action. The verb/noun interface has a beautiful simplicity. It simply does not get in the way. Knowing what the verbs do and what nouns they affect is not discoverable. But spaceflight is dangerous and astronauts train. A lot. They train to know all the verbs and all the nouns by heart intimately. Ease of use and discoverability is &lt;strong&gt;not&lt;/strong&gt; a requirement.&lt;/p&gt;
+&lt;p&gt;What I mostly love about the comment above is the stab at a demo which becomes the defacto user experience because no one can think of a better way on their time schedule. This scenario plays out all the time in software development. You do the simplest thing with every intention of coming back to the problem. But, chances are if the solution you came up with is not horrible and there is a long list of other objectives. You will &lt;strong&gt;not&lt;/strong&gt; get a chance to make your first attempt better.&lt;/p&gt;
+&lt;h2&gt;Want to know more?&lt;/h2&gt;
+&lt;p&gt;There is a lot out there about the Apollo Guidance Computer this video does a great job covering the verb/noun user interface. &lt;/p&gt;
+&lt;p&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/b8S_T772H1c?start=254&quot; style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Howdy Y'all]]></title><description><![CDATA[Hi, I am Kevin. I write software and compose videos of my son building Legos. This blog won’t likely be amazing to the external reader. This…]]></description><link>https://pbgb.io/hello-world/</link><guid isPermaLink="false">https://pbgb.io/hello-world/</guid><pubDate>Sun, 01 Sep 2019 09:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi, I am Kevin. I write software and compose videos of my son building Legos. This blog won’t likely be amazing to the external reader. This is a place for me to put down my thoughts and learnings for future me and maybe family if they want to suffer. If you, the outside reader, get a benefit from this. Great! But you are not my target audience so be kind.&lt;/p&gt;
+&lt;h2&gt;What is with the “Y’all”?&lt;/h2&gt;
+&lt;p&gt;My wife and I have been living in Austin Texas for 18 years. This makes me an official adult Texan so I feel obligated to use &lt;em&gt;y’all&lt;/em&gt; as a way to address a diverse group. This is second nature to me now. I go back to my home state of Wisconsin and use y’all and it feels very normal. Yet, I do notice quizical looks searching for meaning when they hear my mid-west accent emit an sentence like “All y’all did a great job putting this conference together.”  &lt;/p&gt;
+&lt;h2&gt;What the heck is this site / blog / thingy?&lt;/h2&gt;
+&lt;p&gt;I’ve been keeping notes for years in different places containing my ramblings. This is yet another attempt to put them somewhere more central and discoverable in a more organized fashion. These longer more indulgant “ideas” belong somewhere that I have control. So I may from time to time pull in something I posted on Medium or Twitter and expand it here.&lt;/p&gt;
+&lt;h2&gt;How are you doing this?&lt;/h2&gt;
+&lt;p&gt;I am using GatsbyJS and a basic blog template. I discovered Gatsby a year ago and liked it but never had the time to use it for anything. Now that I am taking some time off between gigs. I do.&lt;/p&gt;</content:encoded></item></channel></rss>
